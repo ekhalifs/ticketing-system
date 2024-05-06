@@ -1,0 +1,15 @@
+{
+  "name": "ticket-recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "admin": "npm start --prefix admin-panel",
+    "start": "npm start --prefix client",
+    "server": "npm run server --prefix server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
